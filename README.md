@@ -1,2 +1,2 @@
-# snowflake-recipes-
-Snowflake recipes for solving data problems
+# Snowflake recipes
+Snowflake recipes for solving data problems.
